@@ -10,7 +10,12 @@ Themes edited with [Koriki OS Theme Editor](https://www.reddit.com/r/MiyooMini/c
 
 <img width="700" height="700" alt="Sheezie LCD Handheld Github Preview" src="https://github.com/user-attachments/assets/8cbb4230-2355-43e0-a0b9-780d5e60d7f1" />
 
+
 [Download Here](https://github.com/Sheezie/MiyooThemes-Koriki-/raw/refs/heads/main/Sheezie%20LCD%20Handheld.zip)
+
+OPTIONAL: Use the .png below to overlay your scraped artwork
+<img width="188" height="270" alt="Sheezie LCD Handheld Image Preview Overlay" src="https://github.com/user-attachments/assets/a10836fa-fb82-45b8-9db6-cc336d2583da" />
+
 
 ## BOOT VIDEOS
 
