@@ -19,6 +19,8 @@ OPTIONAL: Use the .png below to overlay your scraped artwork
 
 ## BOOT VIDEOS
 
+Rename video file to videosplash.mp4 and extract to "SDCARD\Koriki"
+
 https://github.com/user-attachments/assets/bd579dcf-2563-4a99-b5d1-c2310e91fc65
 
 https://github.com/user-attachments/assets/62553f84-d758-43eb-bad4-cc72a29e86b5
