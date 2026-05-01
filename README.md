@@ -16,6 +16,17 @@ Themes edited with [Koriki OS Theme Editor](https://www.reddit.com/r/MiyooMini/c
 OPTIONAL: Use the .png below to overlay your scraped artwork
 <img width="188" height="270" alt="Sheezie LCD Handheld Image Preview Overlay" src="https://github.com/user-attachments/assets/a10836fa-fb82-45b8-9db6-cc336d2583da" />
 
+### Sheezie DMG
+
+<img width="700" height="700" alt="Sheezie DMG Github Preview" src="https://github.com/user-attachments/assets/5308449f-4285-480c-b749-5197f817fd23" />
+
+
+[Download Here](https://github.com/Sheezie/MiyooThemes-Koriki-/raw/refs/heads/main/Sheezie%20DMG.zip)
+
+OPTIONAL: Use the .png below to overlay your scraped artwork
+<img width="188" height="270" alt="Sheezie DMG Overlay" src="https://github.com/user-attachments/assets/79bc23b5-f0bd-4b42-b047-4849e16c8383" />
+
+
 
 ## BOOT VIDEOS
 
